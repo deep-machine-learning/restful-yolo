@@ -1,5 +1,5 @@
 
-# AI in Content Moderation
+# Object Detection Web API
 ## RESTful Web Service and C++ compilable version of [YOLO](https://arxiv.org/abs/1612.08242) written in C and CUDA for object detection.
 
 ## Features
